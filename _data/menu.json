@@ -1,0 +1,27 @@
+
+[
+    {
+        "_id": "5e9921ce8432474e84e6757b",
+	    "name": "Soup One",
+	    "type": "Soup",
+	    "cost": 8.99
+    },
+    {
+        "_id": "5e9921ce8432474e84e6757c",
+	    "name": "Salad One",
+	    "type": "Salad",
+	    "cost": 6.99
+    },
+    {
+        "_id": "5e9921ce8432474e84e6757d",
+	    "name": "Entree One",
+	    "type": "Entree",
+	    "cost": 14.99
+    },
+    {
+        "_id": "5e9921ce8432474e84e6757e",
+	    "name": "Elixir One",
+	    "type": "Elixir",
+	    "cost": 7.99
+    }
+]

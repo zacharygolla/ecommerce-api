@@ -1,0 +1,24 @@
+[
+    {
+        "_id": "5e9b429ce19b3904bc61b55d",
+        "role": "admin",
+        "name": "Admin Doe",
+        "email": "zacharygolla@gmail.com",
+        "password": "admin"      
+    },
+    {
+        "_id": "5e9b429ce19b3904bc61b55e",
+        "role": "publisher",
+        "name": "Publisher Doe",
+        "email": "farmacy.meals.publisher@gmail.com",
+        "password": "publisher"
+    },
+    {
+        "_id": "5e9b429ce19b3904bc61b55f",
+        "role": "user",
+        "name": "User Doe",
+        "email": "farmacy.meals.user@gmail.com",
+        "password": "user",
+        "orders": ["5e9921ce8432474e84e60001", "5e9921ce8432474e84e60002"]
+    }
+]
